@@ -1,0 +1,7 @@
+cd ~/camda2024/gut/data/
+mv E*_* ~/camda2024/gut/data/pareados
+mv S*_* ~/camda2024/gut/data/pareados
+mv E* ~/camda2024/gut/data/nopareados
+
+rm S*
+
